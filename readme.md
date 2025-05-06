@@ -31,7 +31,7 @@ The dataset file `cybersecurity_intrusion_data.csv` is located in the `data/` di
 
 ## Project Structure
 
-Cyber-threat-detector/
+Cyber-threat-detector/\n
 ├── app/
 │ ├── api/
 │ │ └── detector_api.py # Flask REST API serving the model
